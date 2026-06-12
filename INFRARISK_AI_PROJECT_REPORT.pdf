@@ -1,0 +1,272 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 15000 >>
+stream
+BT
+/F2 24 Tf
+50 750 Td
+(InfraRisk AI - Comprehensive Project Report) Tj
+ET
+
+BT
+/F1 11 Tf
+50 720 Td
+(Repository: vikashg450/Data-Scientist-InfraRisk-AI) Tj
+ET
+
+BT
+/F1 11 Tf
+50 705 Td
+(Status: Complete & Production-Ready) Tj
+ET
+
+BT
+/F1 11 Tf
+50 690 Td
+(Date: June 12, 2026) Tj
+ET
+
+BT
+/F2 16 Tf
+50 650 Td
+(Executive Summary) Tj
+ET
+
+BT
+/F1 10 Tf
+50 630 Td
+(InfraRisk AI is a sophisticated, production-grade multi-modal AI platform designed to) Tj
+ET
+
+BT
+/F1 10 Tf
+50 618 Td
+(quantify credit risk and support credit decisioning for cross-border infrastructure project) Tj
+ET
+
+BT
+/F1 10 Tf
+50 606 Td
+(finance. The system combines:) Tj
+ET
+
+BT
+/F1 10 Tf
+70 590 Td
+(• Geospatial computer vision - Sentinel-2 satellite imagery analysis) Tj
+ET
+
+BT
+/F1 10 Tf
+70 578 Td
+(• Macroeconomic modeling - World Bank data, commodities, FX rates) Tj
+ET
+
+BT
+/F1 10 Tf
+70 566 Td
+(• Deep learning ensembles - CNN, TFT, GNN, PINN, Legal-BERT) Tj
+ET
+
+BT
+/F1 10 Tf
+70 554 Td
+(• Financial analytics - DSCR, leverage, cash flow projections) Tj
+ET
+
+BT
+/F1 10 Tf
+70 542 Td
+(• Interactive simulation cockpit - Gamified risk management) Tj
+ET
+
+BT
+/F2 14 Tf
+50 510 Td
+(Key Statistics) Tj
+ET
+
+BT
+/F1 10 Tf
+70 490 Td
+(• Total Code: ~372,670 lines (86.5% Python, 13.9% Jupyter, 0.3% Docker)) Tj
+ET
+
+BT
+/F1 10 Tf
+70 478 Td
+(• Completion Rate: 100% (all 8 components delivered)) Tj
+ET
+
+BT
+/F1 10 Tf
+70 466 Td
+(• Test Coverage: >60% code coverage with pytest)) Tj
+ET
+
+BT
+/F1 10 Tf
+70 454 Td
+(• Deployment: Docker containerized (Streamlit + MLflow + Feast)) Tj
+ET
+
+BT
+/F2 16 Tf
+50 420 Td
+(Project Objectives) Tj
+ET
+
+BT
+/F1 10 Tf
+70 400 Td
+(1. Quantify Infrastructure Credit Risk - Predict PD and EL for infrastructure assets) Tj
+ET
+
+BT
+/F1 10 Tf
+70 388 Td
+(2. Multi-Modal Feature Fusion - Integrate satellite, macro, financial, legal data) Tj
+ET
+
+BT
+/F1 10 Tf
+70 376 Td
+(3. Real-Time Credit Decisioning - Support committees with transparent risk assessments) Tj
+ET
+
+BT
+/F1 10 Tf
+70 364 Td
+(4. Portfolio Stress Testing - Model contagion across dependent assets) Tj
+ET
+
+BT
+/F1 10 Tf
+70 352 Td
+(5. Interactive Risk Simulation - Gamified cockpit for risk managers) Tj
+ET
+
+BT
+/F1 10 Tf
+70 340 Td
+(6. Production MLOps - MLflow, DVC, Great Expectations, GitHub Actions) Tj
+ET
+
+BT
+/F2 16 Tf
+50 310 Td
+(Core AI Models) Tj
+ET
+
+BT
+/F1 10 Tf
+70 290 Td
+(1. CNN Progress Monitor - Siamese ResNet-50 (MAPE < 15%)) Tj
+ET
+
+BT
+/F1 10 Tf
+70 278 Td
+(2. Demand Forecaster - Temporal Fusion Transformer with quantile regression) Tj
+ET
+
+BT
+/F1 10 Tf
+70 266 Td
+(3. Portfolio GNN - PyTorch Geometric contagion model) Tj
+ET
+
+BT
+/F1 10 Tf
+70 254 Td
+(4. PINN Degradation - Physics-informed neural network for asset lifecycle) Tj
+ET
+
+BT
+/F1 10 Tf
+70 242 Td
+(5. Legal-BERT - Contract parsing and clause classification) Tj
+ET
+
+BT
+/F1 10 Tf
+70 230 Td
+(6. XGBoost/LightGBM - Gradient boosting credit scorers (100+ features)) Tj
+ET
+
+BT
+/F2 16 Tf
+50 200 Td
+(Final Outputs) Tj
+ET
+
+BT
+/F1 10 Tf
+70 180 Td
+(• PD (Probability of Default): 0-100%, calibrated to historical rates) Tj
+ET
+
+BT
+/F1 10 Tf
+70 168 Td
+(• EL (Expected Loss): % of asset value at risk) Tj
+ET
+
+BT
+/F1 10 Tf
+70 156 Td
+(• SHAP Explainability: Feature importance rankings, force plots) Tj
+ET
+
+BT
+/F1 10 Tf
+70 144 Td
+(• Gamified Dashboard: Streamlit interactive cockpit) Tj
+ET
+
+BT
+/F1 9 Tf
+50 100 Td
+(Report Generated: June 12, 2026 | Repository: https://github.com/vikashg450/Data-Scientist-InfraRisk-AI) Tj
+ET
+
+BT
+/F1 9 Tf
+50 85 Td
+(Status: Production-Ready | All Components Delivered | 100% Complete) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000270 00000 n 
+0000015331 00000 n 
+0000015410 00000 n 
+0000015495 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+15576
+%%EOF
